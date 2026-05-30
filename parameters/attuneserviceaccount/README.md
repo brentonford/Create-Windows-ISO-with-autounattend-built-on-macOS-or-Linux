@@ -1,0 +1,1 @@
+Named admin account for AttuneOps WinRM connections.
